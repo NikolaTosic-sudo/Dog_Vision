@@ -2,7 +2,7 @@
  
 ## This notebook builds an end-ton-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub.
 
-###Some information about the data:
+### Some information about the data:
 
 * We're dealing with images (unstructured data) so it's probably best we use deep learning/transfer learning.
 * There are 120 breeds of dogs (this means there are 120 different classes).
